@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Xeno - is private full stack developer, game developer, software engineer, cyber security and reverse engineer from Philippines.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenoCX&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XenoCX&show_icons=true&theme=midnight-purple)
 
 ## Language
 I can adapt to any programming language, but these are the ones I mainly use.
