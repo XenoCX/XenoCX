@@ -30,4 +30,5 @@ I can adapt to any programming language, but these are the ones I mainly use.
 <a href="https://xeno-gen-projects.gitbook.io/vayronkrieg/" target="_blank"> <img src="https://img.itch.zone/aW1nLzEwMjAyMjk5LnBuZw==/original/x9Bdi6.png" alt="Vayronkrieg" style="width:48px;height:48px;" title="Varonkrieg"></a>&nbsp;
 <a href="https://xeno-gen-projects.itch.io/rawaken" target="_blank"> <img src="https://img.itch.zone/aW1nLzgxMDQzOTMucG5n/original/e61jPK.png" alt="Rawaken" style="width:48px;height:48px;" title="Rawaken"></a>&nbsp;&nbsp;
 
+## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=XenoCX&theme=onedark)](https://github.com/XenoCX)
