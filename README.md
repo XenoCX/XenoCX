@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Xeno - is private full stack developer, game developer, software engineer, cyber security and reverse enginer from Philippines.
+## Xeno - is private full stack developer, game developer, software engineer, cyber security and reverse engineer from Philippines.
 
 ## Language
 I can adapt to any programming language, but these are the ones I mainly use.
