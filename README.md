@@ -26,11 +26,11 @@ I can adapt to any programming language, but these are the ones I mainly use.
 [![Used](https://skillicons.dev/icons?i=unity,visualstudio,blender,vscode,eclipse,wordpress)]([https://skillicons.dev](https://github.com/XenoCX))
 
 ## Works
-<a href="https://xeno-gen-projects.itch.io/universation" target="_blank"> <img src="https://img.itch.zone/aW1nLzEzMzY1Mzk2LnBuZw==/original/WF14wR.png" alt="Rawaken" style="width:48px;height:48px;" title="Universation"></a>&nbsp;
-<a href="https://xeno-gen-projects.gitbook.io/hinachi-ai/" target="_blank"> <img src="https://img.itch.zone/aW1nLzEwNjE1Nzc3LnBuZw==/original/10QTRA.png" alt="Hinachi Ai" style="width:48px;height:48px;" title="Hinachi Ai"></a>&nbsp;
-<a href="https://xeno-gen-projects.gitbook.io/oblinesis-engine/" target="_blank"> <img src="https://img.itch.zone/aW1nLzEzMzcxMjUwLnBuZw==/original/4i3Xjp.png" alt="Oblineses Engine" style="width:48px;height:48px;" title="Oblineses Engine"></a>&nbsp;
-<a href="https://xeno-gen-projects.gitbook.io/vayronkrieg/" target="_blank"> <img src="https://img.itch.zone/aW1nLzEwMjAyMjk5LnBuZw==/original/x9Bdi6.png" alt="Vayronkrieg" style="width:48px;height:48px;" title="Varonkrieg"></a>&nbsp;
-<a href="https://xeno-gen-projects.itch.io/rawaken" target="_blank"> <img src="https://img.itch.zone/aW1nLzgxMDQzOTMucG5n/original/e61jPK.png" alt="Rawaken" style="width:48px;height:48px;" title="Rawaken"></a>&nbsp;&nbsp;
+<a href="https://xeno-gen-projects.itch.io/universation" target="_blank"> <img src="https://img.itch.zone/aW1nLzEzMzY1Mzk2LnBuZw==/original/WF14wR.png" alt="Rawaken" style="width:42px;height:42px;" title="Universation"></a>&nbsp;&nbsp;
+<a href="https://xeno-gen-projects.gitbook.io/hinachi-ai/" target="_blank"> <img src="https://img.itch.zone/aW1nLzEwNjE1Nzc3LnBuZw==/original/10QTRA.png" alt="Hinachi Ai" style="width:42px;height:42px;" title="Hinachi Ai"></a>&nbsp;&nbsp;
+<a href="https://xeno-gen-projects.gitbook.io/oblinesis-engine/" target="_blank"> <img src="https://img.itch.zone/aW1nLzEzMzcxMjUwLnBuZw==/original/4i3Xjp.png" alt="Oblineses Engine" style="width:42px;height:42px;" title="Oblineses Engine"></a>&nbsp;&nbsp;
+<a href="https://xeno-gen-projects.gitbook.io/vayronkrieg/" target="_blank"> <img src="https://img.itch.zone/aW1nLzEwMjAyMjk5LnBuZw==/original/x9Bdi6.png" alt="Vayronkrieg" style="width:42px;height:42px;" title="Varonkrieg"></a>&nbsp;&nbsp;
+<a href="https://xeno-gen-projects.itch.io/rawaken" target="_blank"> <img src="https://img.itch.zone/aW1nLzgxMDQzOTMucG5n/original/e61jPK.png" alt="Rawaken" style="width:42px;height:42px;" title="Rawaken"></a>&nbsp;&nbsp;
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=XenoCX&theme=onedark)](https://github.com/XenoCX)
